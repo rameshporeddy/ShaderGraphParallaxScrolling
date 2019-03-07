@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ScrollingBackgroundMat
+  m_Shader: {fileID: 4800000, guid: 68fd003427e791b47a613b94b1271b67, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_1C493B57:
+        m_Texture: {fileID: 2800000, guid: f7a86f6854de0e843bb6591ad5e9f8d3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texture:
+        m_Texture: {fileID: 2800000, guid: 125cc62963559f14e9a18eb06b6e229c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_B8E4889C: 1
+    - Vector1_DA9D37B4: 0
+    - Vector1_DDC63A11: 0
+    - Vector1_F3DE4B70: 0.31
+    - _xSpeed: 1
+    - _ySpeed: 0
+    m_Colors: []
