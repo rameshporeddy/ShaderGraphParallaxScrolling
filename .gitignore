@@ -18,3 +18,4 @@ Unity.Analytics.DataPrivacy.csproj
 TestShaderGraph2d.sln
 ShaderGraphParallaxScrolling.sln
 Assembly-CSharp.csproj
+builds/
